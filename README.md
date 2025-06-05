@@ -1,12 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Farid Hidayat</h1>
 <h3 align="center">Junior Web Developer | CyberSecurity Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Designing+Experiences;Building+Frontends;Exploring+Tech+with+Style" alt="Typing SVG" />
-</p>
-
----
-
 ### 🚀 Tech Stack
 
 <p align="center">
